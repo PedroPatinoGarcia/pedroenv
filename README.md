@@ -1,8 +1,8 @@
-#Como clonar el repositorio
+# Como clonar el repositorio
 
 git clone https://github.com/PedroPatinoGarcia/pedroenv.git
 
-#Crear un nuevo entorno basado en el archivo yaml
+# Crear un nuevo entorno basado en el archivo yaml
 
 cd "repo"
 conda env create --file pedroenv.yml
